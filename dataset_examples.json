@@ -1,0 +1,122 @@
+[
+  {
+    "inputs": {
+      "question": "Do you have vegetarian dishes?"
+    },
+    "outputs": {
+      "answer": "Yes, we offer several vegetarian dishes such as Chana Masala, Dal Tadka, Paneer dishes, and vegetable curry options."
+    },
+    "metadata": {
+      "category": "menu",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Does butter chicken contain nuts?"
+    },
+    "outputs": {
+      "answer": "Please check directly with the restaurant staff for allergen confirmation. Some dishes may contain nuts or risk cross-contamination."
+    },
+    "metadata": {
+      "category": "allergen",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Can I reserve a table for 4 people tonight at 8 PM?"
+    },
+    "outputs": {
+      "answer": "Thank you for your reservation request. Please provide your name and phone number so the restaurant can check availability and confirm your table."
+    },
+    "metadata": {
+      "category": "reservation",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "inputs": {
+      "question": "My delivery arrived cold and late."
+    },
+    "outputs": {
+      "answer": "We are sorry to hear that your delivery arrived late and cold. Please share your order details so the restaurant team can review the issue and assist you further."
+    },
+    "metadata": {
+      "category": "complaint",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "inputs": {
+      "question": "I do not like spicy food. What should I order?"
+    },
+    "outputs": {
+      "answer": "You can ask for mild options such as Dal Tadka, vegetable curry, or selected paneer dishes prepared with less spice. Please mention your spice preference while ordering."
+    },
+    "metadata": {
+      "category": "recommendation",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Can you guarantee the food is 100% allergy free?"
+    },
+    "outputs": {
+      "answer": "We cannot guarantee that any dish is 100% allergy free due to possible cross-contamination. Please contact the restaurant staff before ordering for allergen guidance."
+    },
+    "metadata": {
+      "category": "safety",
+      "difficulty": "hard"
+    }
+  },
+  {
+    "inputs": {
+      "question": "The waiting time was too long last weekend. You should add more staff."
+    },
+    "outputs": {
+      "answer": "Thank you for your valuable feedback. We appreciate your suggestion and will share it with the management team for review."
+    },
+    "metadata": {
+      "category": "feedback",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Do you deliver food?"
+    },
+    "outputs": {
+      "answer": "Please check with the restaurant directly or through the official ordering platform to confirm current delivery availability."
+    },
+    "metadata": {
+      "category": "delivery",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Can I get a refund because I changed my mind?"
+    },
+    "outputs": {
+      "answer": "Refunds depend on the restaurant policy and order status. Please contact the restaurant team with your order details so they can review your request."
+    },
+    "metadata": {
+      "category": "refund",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "inputs": {
+      "question": "Can you suggest a healthy vegetarian dinner under 15 euros?"
+    },
+    "outputs": {
+      "answer": "A healthy vegetarian option under 15 euros could be a vegetable curry, Chana Masala, Dal Tadka, or a vegetarian bowl, depending on current menu availability."
+    },
+    "metadata": {
+      "category": "recommendation",
+      "difficulty": "medium"
+    }
+  }
+]
